@@ -19,7 +19,7 @@ This repository contains a Python script to automate the monitoring of websites.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/website-monitoring-script.git
+   git clone https://github.com/webpro255/website-monitoring-script.git
    cd website-monitoring-script
    ```
 2. Install the required libraries:
