@@ -30,7 +30,7 @@ This repository contains a Python script to automate the monitoring of websites.
 
 4. Run the script:
   ```bash
-  python website_monitor.py
+  python3 website_monitor.py
   ```
 
    Example
