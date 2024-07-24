@@ -24,7 +24,7 @@ This repository contains a Python script to automate the monitoring of websites.
    ```
 2. Install the required libraries:
   ```bash
-  pip install requests
+  pip3 install requests
   ```
 3. Update the email configuration in website_monitor.py with your email server details.
 
